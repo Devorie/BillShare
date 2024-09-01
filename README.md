@@ -9,14 +9,14 @@ you'll need two terminals.
 
 1.Use the command line to navigate to the file location > API folder
 
-	Run the following prompts on the command line to build and run the project
-	```sh
-	  nodemon app.js
-	  ```
+Run the following prompts on the command line to build and run the project
+```sh
+nodemon app.js
+```
 
 2.Use the command line to navigate to the file location > clientapp folder
 
-  Run the following prompts on the command line to build and run the project
-  ```sh
-  run npm run dev
-  ```
+Run the following prompts on the command line to build and run the project
+```sh
+run npm run dev
+```
